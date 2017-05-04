@@ -1,0 +1,9 @@
+import java.sql.*;
+public static class HRMSDAO{
+	try{
+		
+	}
+	catch(Exception e){
+		System.out.println(e);
+	}
+}
